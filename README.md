@@ -1,5 +1,4 @@
-![ ](https://i.imgur.com/Cyht8XR.gif)
-
+### Good morning! Have you drank your coffee yet? ![ ](https://cdn.discordapp.com/emojis/703008455379910756.png?v=1)
 
 <!--
 - 🔭 I’m currently working on ...
