@@ -24,8 +24,7 @@ const Santos = {
 ### 🌱 I’m currently learning ...
 - 3D Modeling and animation;
 - 2D Animation;
-- Lua;
-- Unity3D's physics manipulation.
+- Lua.
 
 ### 👯 I’m looking to collaborate on ...
 - Video games development;
